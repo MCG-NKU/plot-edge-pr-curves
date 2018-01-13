@@ -1,5 +1,9 @@
-# plot-edge-pr-curves
+# Plot edge PR curves
 This repository contains the code to plot edge PR curves of many existing edge detectors.
+
+<img src="http://mmcheng.net/wp-content/uploads/2014/04/edge_eval_bsds.png" width="400"><img src="http://mmcheng.net/wp-content/uploads/2014/04/edge_eval_nyud.png" width="400">
+
+### Citations
 
 If you are using the code/data provided here in a publication, please consider citing our paper:
 
