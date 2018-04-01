@@ -13,7 +13,7 @@ If you are using the code/data provided here in a publication, please consider c
       year={2017},
       organization={IEEE}
     }
-    
+
 ### Note
 
 The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
@@ -30,7 +30,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={2017},
       organization={IEEE}
     }
-    
+
 [2] COB
 
     @inproceedings{maninis2016convolutional,
@@ -41,7 +41,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={2016},
       organization={Springer}
     }
-    
+
 [3] HED
 
     @inproceedings{xie2015holistically,
@@ -51,7 +51,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       pages={1395--1403},
       year={2015}
     }
-    
+
 [4] HFL
 
     @inproceedings{bertasius2015high,
@@ -61,7 +61,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       pages={504--512},
       year={2015}
     }
-    
+
 [5] DeepContour
 
     @inproceedings{shen2015deepcontour,
@@ -71,7 +71,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       pages={3982--3991},
       year={2015}
     }
-    
+
 [6] DeepEdge
 
     @inproceedings{bertasius2015deepedge,
@@ -81,7 +81,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       pages={4380--4389},
       year={2015}
     }
-    
+
 [7] OEF
 
     @inproceedings{hallman2015oriented,
@@ -91,7 +91,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       pages={1732--1740},
       year={2015}
     }
-    
+
 [8] MCG
 
     @inproceedings{arbelaez2014multiscale,
@@ -101,7 +101,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       pages={328--335},
       year={2014}
     }
-    
+
 [9] SE
 
     @inproceedings{dollar2013structured,
@@ -111,7 +111,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       pages={1841--1848},
       year={2013}
     }
-    
+
 [10] gPb-UCM
 
     @article{arbelaez2011contour,
@@ -124,7 +124,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={2011},
       publisher={IEEE}
     }
-    
+
 [11] ISCRA
 
     @inproceedings{ren2013image,
@@ -134,7 +134,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       pages={2011--2018},
       year={2013}
     }
-    
+
 [12] Pb
 
     @article{martin2004learning,
@@ -147,7 +147,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={2004},
       publisher={IEEE}
     }
-    
+
 [13] BEL
 
     @inproceedings{dollar2006supervised,
@@ -159,7 +159,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={2006},
       organization={IEEE}
     }
-    
+
 [14] NCut
 
     @article{shi2000normalized,
@@ -172,7 +172,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={2000},
       publisher={Ieee}
     }
-    
+
 [15] EGB
 
     @article{felzenszwalb2004efficient,
@@ -185,7 +185,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={2004},
       publisher={Springer}
     }
-    
+
 [16] Canny
 
     @article{canny1986computational,
@@ -197,7 +197,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={1986},
       publisher={Ieee}
     }
-    
+
 [17] MShift
 
     @article{comaniciu2002mean,
@@ -210,7 +210,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={2002},
       publisher={IEEE}
     }
-    
+
 [18] Sobel
 
     @techreport{sobel1970camera,
@@ -219,8 +219,17 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={1970},
       institution={Stanford Univ Calif Dept of Computer Science}
     }
-    
-[19] SE+NG+
+
+[19] Roberts
+
+    @phdthesis{roberts1963machine,
+      title={Machine perception of three-dimensional solids},
+      author={Roberts, Lawrence G},
+      year={1963},
+      school={Massachusetts Institute of Technology}
+    }
+
+[20] SE+NG+
 
     @inproceedings{gupta2014learning,
       title={Learning rich features from RGB-D images for object detection and segmentation},
@@ -230,8 +239,8 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
       year={2014},
       organization={Springer}
     }
-    
-[20] gPb+NG
+
+[21] gPb+NG
 
     @inproceedings{gupta2013perceptual,
       title={Perceptual organization and recognition of indoor scenes from RGB-D images},
