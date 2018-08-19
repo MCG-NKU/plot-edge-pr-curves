@@ -13,6 +13,22 @@ If you are using the code/data provided here in a publication, please consider c
       year={2017},
       organization={IEEE}
     }
+    
+    @inproceedings{cheng2016hfs,
+      title={HFS: Hierarchical Feature Selection for Efficient Image Segmentation},
+      author={Cheng, Ming-Ming and Liu, Yun and Hou, Qibin and Bian, Jiawang and Torr, Philip and Hu, Shi-Min and Tu, Zhuowen},
+      booktitle={European Conference on Computer Vision},
+      pages={867--882},
+      year={2016},
+      organization={Springer}
+    }
+    
+    @conference{liu2018deep,
+      title={DEL: Deep Embedding Learning for Efficient Image Segmentation},
+      author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
+      booktitle={International Joint Conference on Artificial Intelligence (IJCAI)},
+      year={2018}
+    }
 
 ### Note
 
