@@ -14,6 +14,14 @@ If you are using the code/data provided here in a publication, please consider c
       organization={IEEE}
     }
     
+    @article{liu2019richer,
+      title={Richer Convolutional Features for Edge Detection},
+      author={Yun Liu and Ming-Ming Cheng and Xiaowei Hu and Jia-Wang Bian and Le Zhang and Xiang Bai and Jinhui Tang},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+      year={2019},
+      publisher={IEEE}
+    }
+    
     @inproceedings{cheng2016hfs,
       title={HFS: Hierarchical Feature Selection for Efficient Image Segmentation},
       author={Cheng, Ming-Ming and Liu, Yun and Hou, Qibin and Bian, Jiawang and Torr, Philip and Hu, Shi-Min and Tu, Zhuowen},
