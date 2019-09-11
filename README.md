@@ -5,6 +5,17 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 If you are using the code/data provided here in a publication, please consider citing our paper:
 
+    @article{liu2019richer,
+      title={Richer Convolutional Features for Edge Detection},
+      author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Bian, Jia-Wang and Zhang, Le and Bai, Xiang and Tang, Jinhui},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+      volume={41},
+      number={8},
+      pages={1939--1946},
+      year={2019},
+      publisher={IEEE}
+    }
+
     @inproceedings{liu2017richer,
       title={Richer Convolutional Features for Edge Detection},
       author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Wang, Kai and Bai, Xiang},
@@ -14,16 +25,8 @@ If you are using the code/data provided here in a publication, please consider c
       organization={IEEE}
     }
     
-    @article{liu2019richer,
-      title={Richer Convolutional Features for Edge Detection},
-      author={Yun Liu and Ming-Ming Cheng and Xiaowei Hu and Jia-Wang Bian and Le Zhang and Xiang Bai and Jinhui Tang},
-      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
-      year={2019},
-      publisher={IEEE}
-    }
-    
     @inproceedings{cheng2016hfs,
-      title={HFS: Hierarchical Feature Selection for Efficient Image Segmentation},
+      title={{HFS}: Hierarchical Feature Selection for Efficient Image Segmentation},
       author={Cheng, Ming-Ming and Liu, Yun and Hou, Qibin and Bian, Jiawang and Torr, Philip and Hu, Shi-Min and Tu, Zhuowen},
       booktitle={European Conference on Computer Vision},
       pages={867--882},
@@ -32,7 +35,7 @@ If you are using the code/data provided here in a publication, please consider c
     }
     
     @conference{liu2018deep,
-      title={DEL: Deep Embedding Learning for Efficient Image Segmentation},
+      title={{DEL}: Deep Embedding Learning for Efficient Image Segmentation},
       author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
       booktitle={International Joint Conference on Artificial Intelligence (IJCAI)},
       year={2018}
