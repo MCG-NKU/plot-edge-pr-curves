@@ -6,23 +6,14 @@ This repository contains the code to plot edge PR curves of many existing edge d
 If you are using the code/data provided here in a publication, please consider citing our paper:
 
     @article{liu2019richer,
-      title={Richer Convolutional Features for Edge Detection},
+      title={Richer convolutional features for edge detection},
       author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Bian, Jia-Wang and Zhang, Le and Bai, Xiang and Tang, Jinhui},
-      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       volume={41},
       number={8},
       pages={1939--1946},
       year={2019},
       publisher={IEEE}
-    }
-
-    @inproceedings{liu2017richer,
-      title={Richer Convolutional Features for Edge Detection},
-      author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Wang, Kai and Bai, Xiang},
-      journal={Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)},
-      pages={5872--5881},
-      year={2017},
-      organization={IEEE}
     }
     
     @inproceedings{cheng2016hfs,
@@ -37,7 +28,8 @@ If you are using the code/data provided here in a publication, please consider c
     @conference{liu2018deep,
       title={{DEL}: Deep Embedding Learning for Efficient Image Segmentation},
       author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
-      booktitle={International Joint Conference on Artificial Intelligence (IJCAI)},
+      booktitle={International Joint Conference on Artificial Intelligence},
+      pages={864--870},
       year={2018}
     }
 
@@ -50,7 +42,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
 [1] RCF
 
     @article{liu2019richer,
-      title={Richer Convolutional Features for Edge Detection},
+      title={Richer convolutional features for edge detection},
       author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Bian, Jia-Wang and Zhang, Le and Bai, Xiang and Tang, Jinhui},
       journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       volume={41},
@@ -99,7 +91,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
 [5] DeepContour
 
     @inproceedings{shen2015deepcontour,
-      title={DeepContour: A deep convolutional feature learned by positive-sharing loss for contour detection},
+      title={Deep{C}ontour: A deep convolutional feature learned by positive-sharing loss for contour detection},
       author={Shen, Wei and Wang, Xinggang and Wang, Yan and Bai, Xiang and Zhang, Zhijiang},
       booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
       pages={3982--3991},
@@ -109,7 +101,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
 [6] DeepEdge
 
     @inproceedings{bertasius2015deepedge,
-      title={DeepEdge: A multi-scale bifurcated deep network for top-down contour detection},
+      title={Deep{E}dge: A multi-scale bifurcated deep network for top-down contour detection},
       author={Bertasius, Gedas and Shi, Jianbo and Torresani, Lorenzo},
       booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
       pages={4380--4389},
