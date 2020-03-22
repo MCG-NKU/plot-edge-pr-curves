@@ -33,9 +33,7 @@ If you are using the code/data provided here in a publication, please consider c
       year={2018}
     }
 
-### Note
-
-The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
+### Note: The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
 
 ### Citations
 
