@@ -238,12 +238,12 @@ If you are using the code/data provided here in a publication, please consider c
     }
 
 [18] Sobel
-
-    @techreport{sobel1970camera,
+    
+    @techreport{sobel1972camera,
       title={Camera models and machine perception},
       author={Sobel, Irwin},
-      year={1970},
-      institution={Stanford Univ Calif Dept of Computer Science}
+      year={1972},
+      institution={Computer Science Department, Technion}
     }
 
 [19] Roberts
