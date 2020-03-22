@@ -3,6 +3,8 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 <img src="https://mmcheng.net/wp-content/uploads/2014/04/edge_eval_bsds.png" width="400"><img src="https://mmcheng.net/wp-content/uploads/2018/04/edge_eval_nyud.png" width="400">
 
+### Note: The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
+
 If you are using the code/data provided here in a publication, please consider citing our paper:
 
     @article{liu2019richer,
@@ -32,8 +34,6 @@ If you are using the code/data provided here in a publication, please consider c
       pages={864--870},
       year={2018}
     }
-
-### Note: The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
 
 ### Citations
 
