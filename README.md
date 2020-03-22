@@ -49,42 +49,49 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
 
 [1] RCF
 
-    @inproceedings{liu2017richer,
+    @article{liu2019richer,
       title={Richer Convolutional Features for Edge Detection},
-      author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Wang, Kai and Bai, Xiang},
-      journal={Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)},
-      pages={5872--5881},
-      year={2017},
-      organization={IEEE}
+      author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Bian, Jia-Wang and Zhang, Le and Bai, Xiang and Tang, Jinhui},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+      volume={41},
+      number={8},
+      pages={1939--1946},
+      year={2019},
+      publisher={IEEE}
     }
-
+    
 [2] COB
 
-    @inproceedings{maninis2016convolutional,
-      title={Convolutional oriented boundaries},
+    @article{maninis2017convolutional,
+      title={Convolutional oriented boundaries: From image segmentation to high-level tasks},
       author={Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbel{\'a}ez, Pablo and Van Gool, Luc},
-      booktitle={European Conference on Computer Vision},
-      pages={580--596},
-      year={2016},
-      organization={Springer}
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+      volume={40},
+      number={4},
+      pages={819--833},
+      year={2017},
+      publisher={IEEE}
     }
-
+    
 [3] HED
 
-    @inproceedings{xie2015holistically,
-      title={Holistically-nested edge detection},
+    @article{xie2017holistically,
+      title={Holistically-Nested Edge Detection},
       author={Xie, Saining and Tu, Zhuowen},
-      booktitle={Proceedings of the IEEE international conference on computer vision},
-      pages={1395--1403},
-      year={2015}
+      journal={International Journal of Computer Vision},
+      volume={125},
+      number={1-3},
+      pages={3--18},
+      year={2017},
+      publisher={Kluwer Academic Publishers Norwell, MA, USA}
     }
-
+    
 [4] HFL
 
     @inproceedings{bertasius2015high,
       title={High-for-low and low-for-high: Efficient boundary detection from deep object features and its applications to high-level vision},
       author={Bertasius, Gedas and Shi, Jianbo and Torresani, Lorenzo},
-      booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+      booktitle={IEEE International Conference on Computer Vision},
       pages={504--512},
       year={2015}
     }
@@ -92,9 +99,9 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
 [5] DeepContour
 
     @inproceedings{shen2015deepcontour,
-      title={Deepcontour: A deep convolutional feature learned by positive-sharing loss for contour detection},
+      title={DeepContour: A deep convolutional feature learned by positive-sharing loss for contour detection},
       author={Shen, Wei and Wang, Xinggang and Wang, Yan and Bai, Xiang and Zhang, Zhijiang},
-      booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
       pages={3982--3991},
       year={2015}
     }
@@ -102,9 +109,9 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
 [6] DeepEdge
 
     @inproceedings{bertasius2015deepedge,
-      title={Deepedge: A multi-scale bifurcated deep network for top-down contour detection},
+      title={DeepEdge: A multi-scale bifurcated deep network for top-down contour detection},
       author={Bertasius, Gedas and Shi, Jianbo and Torresani, Lorenzo},
-      booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
       pages={4380--4389},
       year={2015}
     }
@@ -114,19 +121,22 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @inproceedings{hallman2015oriented,
       title={Oriented edge forests for boundary detection},
       author={Hallman, Sam and Fowlkes, Charless C},
-      booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
       pages={1732--1740},
       year={2015}
     }
 
 [8] MCG
 
-    @inproceedings{arbelaez2014multiscale,
-      title={Multiscale combinatorial grouping},
-      author={Arbel{\'a}ez, Pablo and Pont-Tuset, Jordi and Barron, Jonathan T and Marques, Ferran and Malik, Jitendra},
-      booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
-      pages={328--335},
-      year={2014}
+    @article{pont2016multiscale,
+      title={Multiscale combinatorial grouping for image segmentation and object proposal generation},
+      author={Pont-Tuset, Jordi and Arbelaez, Pablo and Barron, Jonathan T and Marques, Ferran and Malik, Jitendra},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+      volume={39},
+      number={1},
+      pages={128--140},
+      year={2016},
+      publisher={IEEE}
     }
 
 [9] SE
@@ -134,7 +144,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @inproceedings{dollar2013structured,
       title={Structured forests for fast edge detection},
       author={Doll{\'a}r, Piotr and Zitnick, C Lawrence},
-      booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+      booktitle={IEEE International Conference on Computer Vision},
       pages={1841--1848},
       year={2013}
     }
@@ -144,7 +154,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @article{arbelaez2011contour,
       title={Contour detection and hierarchical image segmentation},
       author={Arbelaez, Pablo and Maire, Michael and Fowlkes, Charless and Malik, Jitendra},
-      journal={IEEE transactions on pattern analysis and machine intelligence},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       volume={33},
       number={5},
       pages={898--916},
@@ -157,7 +167,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @inproceedings{ren2013image,
       title={Image segmentation by cascaded region agglomeration},
       author={Ren, Zhile and Shakhnarovich, Gregory},
-      booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
       pages={2011--2018},
       year={2013}
     }
@@ -167,7 +177,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @article{martin2004learning,
       title={Learning to detect natural image boundaries using local brightness, color, and texture cues},
       author={Martin, David R and Fowlkes, Charless C and Malik, Jitendra},
-      journal={IEEE transactions on pattern analysis and machine intelligence},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       volume={26},
       number={5},
       pages={530--549},
@@ -180,8 +190,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @inproceedings{dollar2006supervised,
       title={Supervised learning of edges and object boundaries},
       author={Dollar, Piotr and Tu, Zhuowen and Belongie, Serge},
-      booktitle={Computer Vision and Pattern Recognition, 2006 IEEE Computer Society Conference on},
-      volume={2},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
       pages={1964--1971},
       year={2006},
       organization={IEEE}
@@ -192,12 +201,12 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @article{shi2000normalized,
       title={Normalized cuts and image segmentation},
       author={Shi, Jianbo and Malik, Jitendra},
-      journal={IEEE Transactions on pattern analysis and machine intelligence},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       volume={22},
       number={8},
       pages={888--905},
       year={2000},
-      publisher={Ieee}
+      publisher={IEEE}
     }
 
 [15] EGB
@@ -205,7 +214,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @article{felzenszwalb2004efficient,
       title={Efficient graph-based image segmentation},
       author={Felzenszwalb, Pedro F and Huttenlocher, Daniel P},
-      journal={International journal of computer vision},
+      journal={International Journal of Computer Vision},
       volume={59},
       number={2},
       pages={167--181},
@@ -218,11 +227,11 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @article{canny1986computational,
       title={A computational approach to edge detection},
       author={Canny, John},
-      journal={IEEE Transactions on pattern analysis and machine intelligence},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       number={6},
       pages={679--698},
       year={1986},
-      publisher={Ieee}
+      publisher={IEEE}
     }
 
 [17] MShift
@@ -230,7 +239,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @article{comaniciu2002mean,
       title={Mean shift: A robust approach toward feature space analysis},
       author={Comaniciu, Dorin and Meer, Peter},
-      journal={IEEE Transactions on pattern analysis and machine intelligence},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       volume={24},
       number={5},
       pages={603--619},
@@ -272,7 +281,7 @@ The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed
     @inproceedings{gupta2013perceptual,
       title={Perceptual organization and recognition of indoor scenes from RGB-D images},
       author={Gupta, Saurabh and Arbelaez, Pablo and Malik, Jitendra},
-      booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
       pages={564--571},
       year={2013}
     }
