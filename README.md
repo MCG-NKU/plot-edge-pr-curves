@@ -5,7 +5,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 ### Note: The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
 
-If you are using the code/data provided here in a publication, please consider citing our paper:
+If you are using the code/data provided here in a publication, please consider citing our papers which have been included in this benchmark:
 
     @article{liu2019richer,
       title={Richer convolutional features for edge detection},
@@ -76,7 +76,28 @@ If you are using the code/data provided here in a publication, please consider c
       publisher={Kluwer Academic Publishers Norwell, MA, USA}
     }
     
-[4] HFL
+[4] HFS
+    
+    @inproceedings{cheng2016hfs,
+      title={{HFS}: Hierarchical Feature Selection for Efficient Image Segmentation},
+      author={Cheng, Ming-Ming and Liu, Yun and Hou, Qibin and Bian, Jiawang and Torr, Philip and Hu, Shi-Min and Tu, Zhuowen},
+      booktitle={European Conference on Computer Vision},
+      pages={867--882},
+      year={2016},
+      organization={Springer}
+    }
+    
+[5] DEL
+    
+    @conference{liu2018deep,
+      title={{DEL}: Deep Embedding Learning for Efficient Image Segmentation},
+      author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
+      booktitle={International Joint Conference on Artificial Intelligence},
+      pages={864--870},
+      year={2018}
+    }
+    
+[6] HFL
 
     @inproceedings{bertasius2015high,
       title={High-for-low and low-for-high: Efficient boundary detection from deep object features and its applications to high-level vision},
@@ -86,7 +107,7 @@ If you are using the code/data provided here in a publication, please consider c
       year={2015}
     }
 
-[5] DeepContour
+[7] DeepContour
 
     @inproceedings{shen2015deepcontour,
       title={Deep{C}ontour: A deep convolutional feature learned by positive-sharing loss for contour detection},
@@ -96,7 +117,7 @@ If you are using the code/data provided here in a publication, please consider c
       year={2015}
     }
 
-[6] DeepEdge
+[8] DeepEdge
 
     @inproceedings{bertasius2015deepedge,
       title={Deep{E}dge: A multi-scale bifurcated deep network for top-down contour detection},
@@ -106,7 +127,7 @@ If you are using the code/data provided here in a publication, please consider c
       year={2015}
     }
 
-[7] OEF
+[9] OEF
 
     @inproceedings{hallman2015oriented,
       title={Oriented edge forests for boundary detection},
@@ -116,7 +137,7 @@ If you are using the code/data provided here in a publication, please consider c
       year={2015}
     }
 
-[8] MCG
+[10] MCG
 
     @article{pont2016multiscale,
       title={Multiscale combinatorial grouping for image segmentation and object proposal generation},
@@ -129,7 +150,7 @@ If you are using the code/data provided here in a publication, please consider c
       publisher={IEEE}
     }
 
-[9] SE
+[11] SE
 
     @inproceedings{dollar2013structured,
       title={Structured forests for fast edge detection},
@@ -139,7 +160,7 @@ If you are using the code/data provided here in a publication, please consider c
       year={2013}
     }
 
-[10] gPb-UCM
+[12] gPb-UCM
 
     @article{arbelaez2011contour,
       title={Contour detection and hierarchical image segmentation},
@@ -152,7 +173,7 @@ If you are using the code/data provided here in a publication, please consider c
       publisher={IEEE}
     }
 
-[11] ISCRA
+[13] ISCRA
 
     @inproceedings{ren2013image,
       title={Image segmentation by cascaded region agglomeration},
@@ -162,7 +183,7 @@ If you are using the code/data provided here in a publication, please consider c
       year={2013}
     }
 
-[12] Pb
+[14] Pb
 
     @article{martin2004learning,
       title={Learning to detect natural image boundaries using local brightness, color, and texture cues},
@@ -175,7 +196,7 @@ If you are using the code/data provided here in a publication, please consider c
       publisher={IEEE}
     }
 
-[13] BEL
+[15] BEL
 
     @inproceedings{dollar2006supervised,
       title={Supervised learning of edges and object boundaries},
@@ -186,7 +207,7 @@ If you are using the code/data provided here in a publication, please consider c
       organization={IEEE}
     }
 
-[14] NCut
+[16] NCut
 
     @article{shi2000normalized,
       title={Normalized cuts and image segmentation},
@@ -199,7 +220,7 @@ If you are using the code/data provided here in a publication, please consider c
       publisher={IEEE}
     }
 
-[15] EGB
+[17] EGB
 
     @article{felzenszwalb2004efficient,
       title={Efficient graph-based image segmentation},
@@ -212,7 +233,7 @@ If you are using the code/data provided here in a publication, please consider c
       publisher={Springer}
     }
 
-[16] Canny
+[18] Canny
 
     @article{canny1986computational,
       title={A computational approach to edge detection},
@@ -224,7 +245,7 @@ If you are using the code/data provided here in a publication, please consider c
       publisher={IEEE}
     }
 
-[17] MShift
+[19] MShift
 
     @article{comaniciu2002mean,
       title={Mean shift: A robust approach toward feature space analysis},
@@ -237,7 +258,7 @@ If you are using the code/data provided here in a publication, please consider c
       publisher={IEEE}
     }
 
-[18] Sobel
+[20] Sobel
     
     @techreport{sobel1972camera,
       title={Camera models and machine perception},
@@ -246,7 +267,7 @@ If you are using the code/data provided here in a publication, please consider c
       institution={Computer Science Department, Technion}
     }
 
-[19] Roberts
+[21] Roberts
 
     @phdthesis{roberts1963machine,
       title={Machine perception of three-dimensional solids},
@@ -255,7 +276,7 @@ If you are using the code/data provided here in a publication, please consider c
       school={Massachusetts Institute of Technology}
     }
 
-[20] SE+NG+
+[22] SE+NG+
 
     @inproceedings{gupta2014learning,
       title={Learning rich features from RGB-D images for object detection and segmentation},
@@ -266,7 +287,7 @@ If you are using the code/data provided here in a publication, please consider c
       organization={Springer}
     }
 
-[21] gPb+NG
+[23] gPb+NG
 
     @inproceedings{gupta2013perceptual,
       title={Perceptual organization and recognition of indoor scenes from RGB-D images},
