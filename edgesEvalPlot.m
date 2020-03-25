@@ -1,4 +1,4 @@
-function edgesEvalPlot(path, names, colors, lines, years)
+function edgesEvalPlot(path, names, colors, lines, years, human)
 % Plot edge precision/recall results for directory of edge images.
 %
 % USAGE
@@ -27,7 +27,7 @@ clf; box on; grid on; hold on;
 line([0 1],[.5 .5],'LineWidth',2,'Color',.7*[1 1 1]);
 for f=0.1:0.1:0.9, r=f:0.01:1; p=f.*r./(2.*r-f); %f=2./(1./p+1./r)
   plot(r,p,'Color',[0 1 0]); plot(p,r,'Color',[0 1 0]); end
-if(1), h=plot(0.7235,0.9014,'o','MarkerSize',8,'Color',[0 .5 0],...
+if(human), h=plot(0.7235,0.9014,'o','MarkerSize',8,'Color',[0 .5 0],...
   'MarkerFaceColor',[0 .5 0],'MarkerEdgeColor',[0 .5 0]); end
 set(gca,'XTick',0:0.1:1,'YTick',0:0.1:1);
 grid on; xlabel('Recall'); ylabel('Precision');
@@ -39,7 +39,7 @@ for i=1:n
   pr=dlmread(fullfile(path,[names{i} '_bdry_thr.txt'])); pr=pr(pr(:,1)>=1e-3,:);
   [~,o]=unique(pr(:,2)); R50=interp1(pr(o,2),pr(o,1),max(pr(o(1),2),.5));
   res(i,1:7)=dlmread(fullfile(path,[names{i} '_bdry.txt'])); res(i,8)=R50; prs{i}=pr;
-end;
+end
 
 % sort algorithms by ODS score
 [~,o]=sort(res(:,3),'descend'); res=res(o,:); prs=prs(o);
@@ -55,7 +55,7 @@ end
 % show legend if nms provided (report best first)
 hold off; if(isempty(names)), return; end
 for i=1:n, names{i}=sprintf('[F=.%3d] %s',round(res(i,3)*1000),[names{i} years{i}]); end
-if(1), hs=[h hs]; names=['[F=.803] Human'; names(:)]; end
+if(human), hs=[h hs]; names=['[F=.803] Human'; names(:)]; end
 legend(hs,names,'Location','sw');
 
 end

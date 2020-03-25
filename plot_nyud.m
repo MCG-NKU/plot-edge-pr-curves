@@ -18,10 +18,11 @@ colors = {
     [0.7176, 0.5137, 0.4392]
 };
 
-lines = {'-','-','--','--','--','--','--'};
+lines = {'-','-','-','--','--','--','--','--'};
 
 names = {
-    'RCF'
+    'RCF-VGG16'
+    'RCF-ResNet50'
     'HED'
     'OEF'
     'SE+NG+'
@@ -32,6 +33,7 @@ names = {
 
 years = {
     ' (2019)'
+    ' (2019)'
     ' (2017)'
     ' (2015)'
     ' (2014)'
@@ -40,6 +42,6 @@ years = {
     ' (2011)'
 };
 
-edgesEvalPlot('edge_eval_nyud', names, colors, lines, years);
+edgesEvalPlot('edge_eval_nyud', names, colors, lines, years, false);
 
 title('NYUD');
