@@ -1,7 +1,7 @@
 # Plot edge PR curves
 This repository contains the code to plot edge PR curves of many existing edge detectors on [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) and [NYUD](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html).
 
-<img src="https://mmcheng.net/wp-content/uploads/2014/04/edge_eval_bsds.png" width="400"><img src="https://mmcheng.net/wp-content/uploads/2018/04/edge_eval_nyud.png" width="400">
+<img src="https://raw.githubusercontent.com/yun-liu/plot-edge-pr-curves/master/pr_bsds.png" width="400"><img src="https://raw.githubusercontent.com/yun-liu/plot-edge-pr-curves/master/pr_nyud.png" width="400">
 
 ### Note: The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
 
