@@ -3,9 +3,9 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 <img src="https://raw.githubusercontent.com/yun-liu/plot-edge-pr-curves/master/pr_bsds.png" width="400"><img src="https://raw.githubusercontent.com/yun-liu/plot-edge-pr-curves/master/pr_nyud.png" width="400">
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ### Note: The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
+### Note: The first column of thresholds in *_bdry.txt and *_bdry_thr.txt has been removed.
 
-If you are using the code/data provided here in a publication, please consider citing our papers which have been included in this benchmark:
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) If you are using the code/data provided here in a publication, please consider citing our papers which have been included in this benchmark:
 
     @article{liu2019richer,
       title={Richer convolutional features for edge detection},
