@@ -8,7 +8,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) If you are using the code/data provided here in a publication, please consider citing our papers which have been included in this benchmark:
 
     @article{liu2019richer,
-      title={Richer convolutional features for edge detection},
+      title={Richer Convolutional Features for Edge Detection},
       author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Bian, Jia-Wang and Zhang, Le and Bai, Xiang and Tang, Jinhui},
       journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       volume={41},
@@ -32,6 +32,13 @@ This repository contains the code to plot edge PR curves of many existing edge d
       author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
       booktitle={International Joint Conference on Artificial Intelligence},
       pages={864--870},
+      year={2018}
+    }
+    
+    @article{liu2018semantic,
+      title={Semantic Edge Detection with Diverse Deep Supervision},
+      author={Liu, Yun and Cheng, Ming-Ming and Fan, Deng-Ping and Zhang, Le and Bian, JiaWang and Tao, Dacheng},
+      journal={arXiv preprint arXiv:1804.02864},
       year={2018}
     }
 
