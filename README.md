@@ -44,8 +44,9 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 ### Citations
 
-[1] RCF
+1. RCF
 
+    ```bash
     @article{liu2019richer,
       title={Richer convolutional features for edge detection},
       author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Bian, Jia-Wang and Zhang, Le and Bai, Xiang and Tang, Jinhui},
@@ -56,8 +57,20 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2019},
       publisher={IEEE}
     }
+    ```
     
-[2] COB
+1. DDS
+    
+     ```bash
+     @article{liu2018semantic,
+      title={Semantic Edge Detection with Diverse Deep Supervision},
+      author={Liu, Yun and Cheng, Ming-Ming and Fan, Deng-Ping and Zhang, Le and Bian, JiaWang and Tao, Dacheng},
+      journal={arXiv preprint arXiv:1804.02864},
+      year={2018}
+    }
+    ```
+    
+[3] COB
 
     @article{maninis2017convolutional,
       title={Convolutional oriented boundaries: From image segmentation to high-level tasks},
@@ -70,7 +83,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       publisher={IEEE}
     }
     
-[3] HED
+[4] HED
 
     @article{xie2017holistically,
       title={Holistically-Nested Edge Detection},
@@ -83,17 +96,6 @@ This repository contains the code to plot edge PR curves of many existing edge d
       publisher={Kluwer Academic Publishers Norwell, MA, USA}
     }
     
-[4] HFS
-    
-    @inproceedings{cheng2016hfs,
-      title={{HFS}: Hierarchical Feature Selection for Efficient Image Segmentation},
-      author={Cheng, Ming-Ming and Liu, Yun and Hou, Qibin and Bian, Jiawang and Torr, Philip and Hu, Shi-Min and Tu, Zhuowen},
-      booktitle={European Conference on Computer Vision},
-      pages={867--882},
-      year={2016},
-      organization={Springer}
-    }
-    
 [5] DEL
     
     @conference{liu2018deep,
@@ -104,7 +106,20 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2018}
     }
     
-[6] HFL
+[6] HFS
+    
+    @inproceedings{cheng2016hfs,
+      title={{HFS}: Hierarchical Feature Selection for Efficient Image Segmentation},
+      author={Cheng, Ming-Ming and Liu, Yun and Hou, Qibin and Bian, Jiawang and Torr, Philip and Hu, Shi-Min and Tu, Zhuowen},
+      booktitle={European Conference on Computer Vision},
+      pages={867--882},
+      year={2016},
+      organization={Springer}
+    }
+    
+
+    
+[7] HFL
 
     @inproceedings{bertasius2015high,
       title={High-for-low and low-for-high: Efficient boundary detection from deep object features and its applications to high-level vision},
@@ -114,7 +129,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2015}
     }
 
-[7] DeepContour
+[8] DeepContour
 
     @inproceedings{shen2015deepcontour,
       title={Deep{C}ontour: A deep convolutional feature learned by positive-sharing loss for contour detection},
@@ -124,23 +139,13 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2015}
     }
 
-[8] DeepEdge
+[9] DeepEdge
 
     @inproceedings{bertasius2015deepedge,
       title={Deep{E}dge: A multi-scale bifurcated deep network for top-down contour detection},
       author={Bertasius, Gedas and Shi, Jianbo and Torresani, Lorenzo},
       booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
       pages={4380--4389},
-      year={2015}
-    }
-
-[9] OEF
-
-    @inproceedings{hallman2015oriented,
-      title={Oriented edge forests for boundary detection},
-      author={Hallman, Sam and Fowlkes, Charless C},
-      booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
-      pages={1732--1740},
       year={2015}
     }
 
@@ -157,7 +162,17 @@ This repository contains the code to plot edge PR curves of many existing edge d
       publisher={IEEE}
     }
 
-[11] SE
+[11] OEF
+
+    @inproceedings{hallman2015oriented,
+      title={Oriented edge forests for boundary detection},
+      author={Hallman, Sam and Fowlkes, Charless C},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+      pages={1732--1740},
+      year={2015}
+    }
+
+[12] SE
 
     @inproceedings{dollar2013structured,
       title={Structured forests for fast edge detection},
@@ -167,7 +182,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2013}
     }
 
-[12] gPb-UCM
+[13] gPb-UCM
 
     @article{arbelaez2011contour,
       title={Contour detection and hierarchical image segmentation},
@@ -180,7 +195,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       publisher={IEEE}
     }
 
-[13] ISCRA
+[14] ISCRA
 
     @inproceedings{ren2013image,
       title={Image segmentation by cascaded region agglomeration},
@@ -190,7 +205,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2013}
     }
 
-[14] Pb
+[15] Pb
 
     @article{martin2004learning,
       title={Learning to detect natural image boundaries using local brightness, color, and texture cues},
@@ -203,7 +218,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       publisher={IEEE}
     }
 
-[15] BEL
+[16] BEL
 
     @inproceedings{dollar2006supervised,
       title={Supervised learning of edges and object boundaries},
@@ -214,7 +229,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       organization={IEEE}
     }
 
-[16] NCut
+[17] NCut
 
     @article{shi2000normalized,
       title={Normalized cuts and image segmentation},
@@ -227,7 +242,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       publisher={IEEE}
     }
 
-[17] EGB
+[18] EGB
 
     @article{felzenszwalb2004efficient,
       title={Efficient graph-based image segmentation},
@@ -240,7 +255,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       publisher={Springer}
     }
 
-[18] Canny
+[19] Canny
 
     @article{canny1986computational,
       title={A computational approach to edge detection},
@@ -252,7 +267,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       publisher={IEEE}
     }
 
-[19] MShift
+[20] MShift
 
     @article{comaniciu2002mean,
       title={Mean shift: A robust approach toward feature space analysis},
@@ -265,7 +280,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       publisher={IEEE}
     }
 
-[20] Sobel
+[21] Sobel
     
     @techreport{sobel1972camera,
       title={Camera models and machine perception},
@@ -274,7 +289,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       institution={Computer Science Department, Technion}
     }
 
-[21] Roberts
+[22] Roberts
 
     @phdthesis{roberts1963machine,
       title={Machine perception of three-dimensional solids},
@@ -283,7 +298,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       school={Massachusetts Institute of Technology}
     }
 
-[22] SE+NG+
+[23] SE+NG+
 
     @inproceedings{gupta2014learning,
       title={Learning rich features from RGB-D images for object detection and segmentation},
@@ -294,7 +309,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
       organization={Springer}
     }
 
-[23] gPb+NG
+[24] gPb+NG
 
     @inproceedings{gupta2013perceptual,
       title={Perceptual organization and recognition of indoor scenes from RGB-D images},
