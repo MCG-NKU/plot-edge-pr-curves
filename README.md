@@ -44,7 +44,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 ### Citations
 
-* RCF
+[1.] RCF
 
     ```bash
     @article{liu2019richer,
@@ -59,7 +59,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
     }
     ```
     
-* DDS
+[1.] DDS
     
      ```bash
      @article{liu2018semantic,
