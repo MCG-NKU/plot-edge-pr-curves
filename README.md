@@ -44,7 +44,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 ### Citations
 
-[1.] RCF
+1. RCF
 
     ```bash
     @article{liu2019richer,
@@ -59,7 +59,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
     }
     ```
     
-[1.] DDS
+1. DDS
     
      ```bash
      @article{liu2018semantic,
@@ -70,8 +70,9 @@ This repository contains the code to plot edge PR curves of many existing edge d
     }
     ```
     
-[3] COB
+1. COB
 
+    ```bash
     @article{maninis2017convolutional,
       title={Convolutional oriented boundaries: From image segmentation to high-level tasks},
       author={Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbel{\'a}ez, Pablo and Van Gool, Luc},
@@ -82,9 +83,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2017},
       publisher={IEEE}
     }
+    ```
     
-[4] HED
+1. HED
 
+    ```bash
     @article{xie2017holistically,
       title={Holistically-Nested Edge Detection},
       author={Xie, Saining and Tu, Zhuowen},
@@ -95,9 +98,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2017},
       publisher={Kluwer Academic Publishers Norwell, MA, USA}
     }
+    ```
     
-[5] DEL
+1. DEL
     
+    ```bash
     @conference{liu2018deep,
       title={{DEL}: Deep Embedding Learning for Efficient Image Segmentation},
       author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
@@ -105,9 +110,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       pages={864--870},
       year={2018}
     }
+    ```
     
-[6] HFS
+1. HFS
     
+    ```bash
     @inproceedings{cheng2016hfs,
       title={{HFS}: Hierarchical Feature Selection for Efficient Image Segmentation},
       author={Cheng, Ming-Ming and Liu, Yun and Hou, Qibin and Bian, Jiawang and Torr, Philip and Hu, Shi-Min and Tu, Zhuowen},
@@ -116,11 +123,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2016},
       organization={Springer}
     }
-    
+    ```
 
-    
-[7] HFL
+1. HFL
 
+    ```bash
     @inproceedings{bertasius2015high,
       title={High-for-low and low-for-high: Efficient boundary detection from deep object features and its applications to high-level vision},
       author={Bertasius, Gedas and Shi, Jianbo and Torresani, Lorenzo},
@@ -128,9 +135,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       pages={504--512},
       year={2015}
     }
+    ```
 
-[8] DeepContour
+1. DeepContour
 
+    ```bash
     @inproceedings{shen2015deepcontour,
       title={Deep{C}ontour: A deep convolutional feature learned by positive-sharing loss for contour detection},
       author={Shen, Wei and Wang, Xinggang and Wang, Yan and Bai, Xiang and Zhang, Zhijiang},
@@ -138,9 +147,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       pages={3982--3991},
       year={2015}
     }
+    ```
 
-[9] DeepEdge
+1. DeepEdge
 
+    ```bash
     @inproceedings{bertasius2015deepedge,
       title={Deep{E}dge: A multi-scale bifurcated deep network for top-down contour detection},
       author={Bertasius, Gedas and Shi, Jianbo and Torresani, Lorenzo},
@@ -148,9 +159,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       pages={4380--4389},
       year={2015}
     }
+    ```
 
-[10] MCG
+1. MCG
 
+    ```bash
     @article{pont2016multiscale,
       title={Multiscale combinatorial grouping for image segmentation and object proposal generation},
       author={Pont-Tuset, Jordi and Arbelaez, Pablo and Barron, Jonathan T and Marques, Ferran and Malik, Jitendra},
@@ -161,9 +174,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2016},
       publisher={IEEE}
     }
+    ```
 
-[11] OEF
+1. OEF
 
+    ```bash
     @inproceedings{hallman2015oriented,
       title={Oriented edge forests for boundary detection},
       author={Hallman, Sam and Fowlkes, Charless C},
@@ -171,9 +186,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       pages={1732--1740},
       year={2015}
     }
+    ```
 
-[12] SE
+1. SE
 
+    ```bash
     @inproceedings{dollar2013structured,
       title={Structured forests for fast edge detection},
       author={Doll{\'a}r, Piotr and Zitnick, C Lawrence},
@@ -181,9 +198,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       pages={1841--1848},
       year={2013}
     }
+    ```
 
-[13] gPb-UCM
+1. gPb-UCM
 
+    ```bash
     @article{arbelaez2011contour,
       title={Contour detection and hierarchical image segmentation},
       author={Arbelaez, Pablo and Maire, Michael and Fowlkes, Charless and Malik, Jitendra},
@@ -194,9 +213,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2011},
       publisher={IEEE}
     }
+    ```
 
-[14] ISCRA
+1. ISCRA
 
+    ```bash
     @inproceedings{ren2013image,
       title={Image segmentation by cascaded region agglomeration},
       author={Ren, Zhile and Shakhnarovich, Gregory},
@@ -204,9 +225,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       pages={2011--2018},
       year={2013}
     }
+    ```
 
-[15] Pb
+1. Pb
 
+    ```bash
     @article{martin2004learning,
       title={Learning to detect natural image boundaries using local brightness, color, and texture cues},
       author={Martin, David R and Fowlkes, Charless C and Malik, Jitendra},
@@ -217,9 +240,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2004},
       publisher={IEEE}
     }
+    ```
 
-[16] BEL
+1. BEL
 
+    ```bash
     @inproceedings{dollar2006supervised,
       title={Supervised learning of edges and object boundaries},
       author={Dollar, Piotr and Tu, Zhuowen and Belongie, Serge},
@@ -228,9 +253,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2006},
       organization={IEEE}
     }
+    ```
 
-[17] NCut
+1. NCut
 
+    ```bash
     @article{shi2000normalized,
       title={Normalized cuts and image segmentation},
       author={Shi, Jianbo and Malik, Jitendra},
@@ -241,9 +268,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2000},
       publisher={IEEE}
     }
+    ```
 
-[18] EGB
+1. EGB
 
+    ```bash
     @article{felzenszwalb2004efficient,
       title={Efficient graph-based image segmentation},
       author={Felzenszwalb, Pedro F and Huttenlocher, Daniel P},
@@ -254,9 +283,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2004},
       publisher={Springer}
     }
+    ```
 
-[19] Canny
+1. Canny
 
+    ```bash
     @article{canny1986computational,
       title={A computational approach to edge detection},
       author={Canny, John},
@@ -266,9 +297,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={1986},
       publisher={IEEE}
     }
+    ```
 
-[20] MShift
+1. MShift
 
+    ```
     @article{comaniciu2002mean,
       title={Mean shift: A robust approach toward feature space analysis},
       author={Comaniciu, Dorin and Meer, Peter},
@@ -279,27 +312,33 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2002},
       publisher={IEEE}
     }
+    ```
 
-[21] Sobel
+1. Sobel
     
+    ```
     @techreport{sobel1972camera,
       title={Camera models and machine perception},
       author={Sobel, Irwin},
       year={1972},
       institution={Computer Science Department, Technion}
     }
+    ```
 
-[22] Roberts
+1. Roberts
 
+    ```
     @phdthesis{roberts1963machine,
       title={Machine perception of three-dimensional solids},
       author={Roberts, Lawrence G},
       year={1963},
       school={Massachusetts Institute of Technology}
     }
+    ```
 
-[23] SE+NG+
+1. SE+NG+
 
+    ```
     @inproceedings{gupta2014learning,
       title={Learning rich features from RGB-D images for object detection and segmentation},
       author={Gupta, Saurabh and Girshick, Ross and Arbel{\'a}ez, Pablo and Malik, Jitendra},
@@ -308,9 +347,11 @@ This repository contains the code to plot edge PR curves of many existing edge d
       year={2014},
       organization={Springer}
     }
+    ```
 
-[24] gPb+NG
+1. gPb+NG
 
+    ```
     @inproceedings{gupta2013perceptual,
       title={Perceptual organization and recognition of indoor scenes from RGB-D images},
       author={Gupta, Saurabh and Arbelaez, Pablo and Malik, Jitendra},
@@ -318,3 +359,4 @@ This repository contains the code to plot edge PR curves of many existing edge d
       pages={564--571},
       year={2013}
     }
+    ```
