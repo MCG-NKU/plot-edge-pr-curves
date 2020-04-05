@@ -46,7 +46,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. RCF
 
-    ```bash
+    ```
     @article{liu2019richer,
       title={Richer convolutional features for edge detection},
       author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Bian, Jia-Wang and Zhang, Le and Bai, Xiang and Tang, Jinhui},
@@ -61,7 +61,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
     
 1. DDS
     
-     ```bash
+     ```
      @article{liu2018semantic,
       title={Semantic Edge Detection with Diverse Deep Supervision},
       author={Liu, Yun and Cheng, Ming-Ming and Fan, Deng-Ping and Zhang, Le and Bian, JiaWang and Tao, Dacheng},
@@ -72,7 +72,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
     
 1. COB
 
-    ```bash
+    ```
     @article{maninis2017convolutional,
       title={Convolutional oriented boundaries: From image segmentation to high-level tasks},
       author={Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbel{\'a}ez, Pablo and Van Gool, Luc},
@@ -87,7 +87,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
     
 1. HED
 
-    ```bash
+    ```
     @article{xie2017holistically,
       title={Holistically-Nested Edge Detection},
       author={Xie, Saining and Tu, Zhuowen},
@@ -102,7 +102,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
     
 1. DEL
     
-    ```bash
+    ```
     @conference{liu2018deep,
       title={{DEL}: Deep Embedding Learning for Efficient Image Segmentation},
       author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
@@ -114,7 +114,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
     
 1. HFS
     
-    ```bash
+    ```
     @inproceedings{cheng2016hfs,
       title={{HFS}: Hierarchical Feature Selection for Efficient Image Segmentation},
       author={Cheng, Ming-Ming and Liu, Yun and Hou, Qibin and Bian, Jiawang and Torr, Philip and Hu, Shi-Min and Tu, Zhuowen},
@@ -127,7 +127,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. HFL
 
-    ```bash
+    ```
     @inproceedings{bertasius2015high,
       title={High-for-low and low-for-high: Efficient boundary detection from deep object features and its applications to high-level vision},
       author={Bertasius, Gedas and Shi, Jianbo and Torresani, Lorenzo},
@@ -139,7 +139,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. DeepContour
 
-    ```bash
+    ```
     @inproceedings{shen2015deepcontour,
       title={Deep{C}ontour: A deep convolutional feature learned by positive-sharing loss for contour detection},
       author={Shen, Wei and Wang, Xinggang and Wang, Yan and Bai, Xiang and Zhang, Zhijiang},
@@ -151,7 +151,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. DeepEdge
 
-    ```bash
+    ```
     @inproceedings{bertasius2015deepedge,
       title={Deep{E}dge: A multi-scale bifurcated deep network for top-down contour detection},
       author={Bertasius, Gedas and Shi, Jianbo and Torresani, Lorenzo},
@@ -163,7 +163,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. MCG
 
-    ```bash
+    ```
     @article{pont2016multiscale,
       title={Multiscale combinatorial grouping for image segmentation and object proposal generation},
       author={Pont-Tuset, Jordi and Arbelaez, Pablo and Barron, Jonathan T and Marques, Ferran and Malik, Jitendra},
@@ -178,7 +178,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. OEF
 
-    ```bash
+    ```
     @inproceedings{hallman2015oriented,
       title={Oriented edge forests for boundary detection},
       author={Hallman, Sam and Fowlkes, Charless C},
@@ -190,7 +190,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. SE
 
-    ```bash
+    ```
     @inproceedings{dollar2013structured,
       title={Structured forests for fast edge detection},
       author={Doll{\'a}r, Piotr and Zitnick, C Lawrence},
@@ -202,7 +202,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. gPb-UCM
 
-    ```bash
+    ```
     @article{arbelaez2011contour,
       title={Contour detection and hierarchical image segmentation},
       author={Arbelaez, Pablo and Maire, Michael and Fowlkes, Charless and Malik, Jitendra},
@@ -217,7 +217,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. ISCRA
 
-    ```bash
+    ```
     @inproceedings{ren2013image,
       title={Image segmentation by cascaded region agglomeration},
       author={Ren, Zhile and Shakhnarovich, Gregory},
@@ -229,7 +229,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. Pb
 
-    ```bash
+    ```
     @article{martin2004learning,
       title={Learning to detect natural image boundaries using local brightness, color, and texture cues},
       author={Martin, David R and Fowlkes, Charless C and Malik, Jitendra},
@@ -244,7 +244,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. BEL
 
-    ```bash
+    ```
     @inproceedings{dollar2006supervised,
       title={Supervised learning of edges and object boundaries},
       author={Dollar, Piotr and Tu, Zhuowen and Belongie, Serge},
@@ -257,7 +257,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. NCut
 
-    ```bash
+    ```
     @article{shi2000normalized,
       title={Normalized cuts and image segmentation},
       author={Shi, Jianbo and Malik, Jitendra},
@@ -272,7 +272,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. EGB
 
-    ```bash
+    ```
     @article{felzenszwalb2004efficient,
       title={Efficient graph-based image segmentation},
       author={Felzenszwalb, Pedro F and Huttenlocher, Daniel P},
@@ -287,7 +287,7 @@ This repository contains the code to plot edge PR curves of many existing edge d
 
 1. Canny
 
-    ```bash
+    ```
     @article{canny1986computational,
       title={A computational approach to edge detection},
       author={Canny, John},
