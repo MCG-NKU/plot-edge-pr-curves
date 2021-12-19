@@ -35,11 +35,11 @@ If you are using the code/data provided here in a publication, please consider c
       year={2018}
     }
     
-    @article{liu2018semantic,
-      title={Semantic Edge Detection with Diverse Deep Supervision},
+    @article{liu2021semantic,
+      title={Semantic edge detection with diverse deep supervision},
       author={Liu, Yun and Cheng, Ming-Ming and Fan, Deng-Ping and Zhang, Le and Bian, JiaWang and Tao, Dacheng},
-      journal={arXiv preprint arXiv:1804.02864},
-      year={2018}
+      journal={International Journal of Computer Vision},
+      year={2021}
     }
 
 ### Citations
@@ -62,11 +62,11 @@ If you are using the code/data provided here in a publication, please consider c
 1. DDS
     
      ```
-     @article{liu2018semantic,
-      title={Semantic Edge Detection with Diverse Deep Supervision},
+    @article{liu2021semantic,
+      title={Semantic edge detection with diverse deep supervision},
       author={Liu, Yun and Cheng, Ming-Ming and Fan, Deng-Ping and Zhang, Le and Bian, JiaWang and Tao, Dacheng},
-      journal={arXiv preprint arXiv:1804.02864},
-      year={2018}
+      journal={International Journal of Computer Vision},
+      year={2021}
     }
     ```
     
